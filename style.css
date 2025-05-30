@@ -1,7 +1,7 @@
 .zoom-container {
   position: relative;
   overflow: hidden;
-  width: 700px;
+  width: 900px;
 }
 .zoom-container img {
   width: 100%;
@@ -31,4 +31,7 @@
 
 body{
     background-color: rgb(212, 208, 208);
+     display: flex;
+     justify-content: center;
+     align-items: center;
 }
